@@ -1,0 +1,25 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.number{
+    font-size: 50px;
+}
+.row{
+    margin:10px;
+}
+.add{
+    background-color: green;
+    font-size: 40px;
+    cursor: pointer;
+    border-radius: 5px;
+    width: 40px;
+}
+.subtract{
+    background-color: red;
+    font-size: 40px;
+    cursor: pointer;
+    width: 40px;
+    border-radius:5px ;
+}
